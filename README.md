@@ -1,1 +1,2 @@
-# snow_projects
+# Computer Graphics Final Project
+Seasonal Change
